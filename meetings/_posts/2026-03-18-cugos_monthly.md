@@ -11,4 +11,16 @@ category: meetings
 notes: The building is locked after 5pm. Someone will be there 5-10 minutes until 6pm to let us in at the entrance near the bike shelter at the northwest corner of the building. If you see nobody around and can't access, ping the CUGOS Slack to be let in. We will adjourn to a nearby pub for a happy hour after the meeting!
 ---
 
-**[@you](/people/)** Introduce yourself! Or re-introduce yourself! Tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. To get on the agenda, you can [edit this page](https://github.com/cugos/cugos.github.com?tab=readme-ov-file#contributing), or send us an email: [hello@cugos.org](mailto:hello@cugos.org)
+# CUGOS Lightning Talks
+
+By popular demand, we are doing **lightning talks** this month! Here's how it works:
+
+* Share a one-sentence description of your topic to [hello@cugos.org](mailto:hello@cugos.org), or [edit this page](https://github.com/cugos/cugos.github.com?tab=readme-ov-file#contributing) to get on the agenda. This is a great opportunity to share rough drafts, open questions, or silly sidequests.
+* Each presenter has **5 minutes** to share their topic, with a firm cutoff
+* All presentation types are welcome---no need for slides if you don't want them
+* After the talk ends, we'll have time for one or two questions while the next person sets up.
+* We'll leave some open time at the end of the meeting for informal discussions and follow-up. If you presented an open question, bring your computer so people can help you solve it!
+
+## Lightning talk topics
+
+_Coming soon!_
